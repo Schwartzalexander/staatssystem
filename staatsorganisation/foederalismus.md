@@ -2,7 +2,8 @@
 
 ## Grundprinzip
 
-In diesem Konzept wird der bisherige Föderalismus vollständig abgeschafft. Die staatliche Organisation wird auf eine einheitliche, zentral gesteuerte Struktur umgestellt.
+Der bisherige Föderalismus wird vollständig abgeschafft. Die staatliche Organisation wird auf eine einheitliche, zentral
+gesteuerte Struktur umgestellt.
 
 ## Strukturreform
 
@@ -22,9 +23,15 @@ Die Zentralverwaltung soll insbesondere folgende Ziele erreichen:
 
 ## Verwaltungsgliederung ohne Bundesländer
 
-Anstelle der Bundesländer wird das Staatsgebiet in reine Verwaltungsregionen eingeteilt. Diese Regionen haben keine eigenständige Verfassungs- oder Gesetzgebungshoheit, sondern dienen der Umsetzung zentral beschlossener Regelungen.
+Anstelle der Bundesländer wird das Staatsgebiet 10 reine Verwaltungsregionen eingeteilt, die so gewählt werden, dass
+etwa acht bis zehn Millionen Menschen in einer Verwaltungsregion leben. Diese Regionen haben keine eigenständige
+Verfassungs- oder Gesetzgebungshoheit, sondern dienen der Umsetzung zentral beschlossener Regelungen.
 
-Mögliche Aufgaben regionaler Verwaltungsstellen:
+Alle Verwaltungsregionen funktioneren nach demselben Schema und verwenden dieselben Prozesse. Eingesetzte
+Infrastruktur (z.B. Software) ist einheitlich in allen Verwaltungsregionen. Dies verringert die Kosten und erleichtert
+den Mitarbeitern einen Wechsel in andere Verwaltungsregionen (z.B. bei Umzug).
+
+### Aufgaben regionaler Verwaltungsstellen:
 
 - Umsetzung zentraler Gesetze und Verordnungen
 - Datenerhebung und Lageberichte an die Zentralverwaltung
@@ -33,6 +40,8 @@ Mögliche Aufgaben regionaler Verwaltungsstellen:
 
 ## Gesetzgebung und Finanzierung
 
-Gesetzgebung findet ausschließlich auf Ebene des Land Deutschland statt. Regionale Stellen besitzen keine eigene gesetzgeberische Kompetenz.
+Gesetzgebung findet ausschließlich auf Ebene des Landes Deutschland statt. Regionale Stellen besitzen keine eigene
+gesetzgeberische Kompetenz.
 
-Die Finanzierung öffentlicher Aufgaben erfolgt zentral über einen gemeinsamen Staatshaushalt mit standardisierten Verteilungsregeln für alle Verwaltungsregionen.
+Die Finanzierung öffentlicher Aufgaben erfolgt zentral über einen gemeinsamen Staatshaushalt mit standardisierten
+Verteilungsregeln für alle Verwaltungsregionen.
