@@ -19,15 +19,14 @@ scheitern.
 
 - **Informatik:** Pflichtfach auf allen Schularten mit mindestens 4 Wochenstunden.
 - **Ernährungsbildung:** Pflichtfach mit 1 Wochenstunde zur Förderung von Gesundheitskompetenz.
-- **Deutsch:** Reduktion auf 2 Wochenstunden in höheren Klassenstufen, bei gleichzeitig verbindlichen
+- **Deutsch:** Ab der Sekundärstufe Reduktion auf 2 Wochenstunden, bei gleichzeitig verbindlichen
   Mindeststandards in Sprachkompetenz.
-- **Kunst und Musik:** reduzierter Pflichtanteil; frühere Abwahl möglich.
+- **Kunst und Musik:** reduzierter Pflichtanteil; frühere Abwahl möglich. Nicht relevant für die Versetzung in die nächste Jahrgangsstufe.
 - **Latein:** kein reguläres Pflicht- oder Wahlangebot im Standardcurriculum.
 
 ## Religions- und Wertebildung
 
-Unterricht ist frei von konfessioneller Bindung. Wertebildung erfolgt über Ethik, Staatsbürgerkunde und
-verfassungsbezogene Grundbildung.
+Unterricht ist frei von konfessioneller Bindung. Stattdessen wird ein gemeinsames Fach "Werte und Gesellschaft" eingeführt, das ethische, soziale und kulturelle Themen behandelt (1 Wochenstunde). Dieses Fach ist eher ein Diskussionsfach als, dass es einen strikten Lehrplan hat. Es soll die Entwicklung von kritischem Denken, Empathie und gesellschaftlicher Verantwortung fördern. Daher findet keine Benotung statt.
 
 ## Leistungsprinzip und Förderung
 

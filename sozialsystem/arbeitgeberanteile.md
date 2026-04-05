@@ -2,7 +2,7 @@
 
 ## Grundprinzip
 
-In diesem Modell gibt es keine klassischen Arbeitgeberanteile zu den Sozialversicherungen.
+Die klassischen Arbeitgeberanteile zu den Sozialversicherungen empfallen.
 Alle Sozialbeiträge werden transparent dem Bruttoeinkommen der beschäftigten Person zugeordnet.
 
 ## Zielsetzung
