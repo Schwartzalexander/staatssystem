@@ -27,10 +27,23 @@ alle anderen gesellschaftlichen Aktivitäten.
 
 Damit wird eine klare Trennung zwischen persönlichem Glauben und staatlichem Handeln gewährleistet.
 
-## Unmittelbare Folge dieser weltanschaulichen Neutralität
+## Unmittelbare Folgen dieser weltanschaulichen Neutralität
 
-- Alle gesetzlichen Einschränkungen, die ausschließlich
-  religiös begründet sind, entfallen. Dazu zählen insbesondere sogenannte **Tanzverbote** an religiösen Feiertagen, die
-  ersatzlos gestrichen werden.
-- Der Sonntag kein Ruhetag mehr.
-    - Alle religiösen Feiertage werden gestrichen, siehe auch [Feiertage](../verschiedene/feiertage.md).
+- Alle gesetzlichen Einschränkungen, die ausschließlich religiös begründet sind, entfallen. Dazu zählen insbesondere
+  sogenannte **Tanzverbote** an religiösen Feiertagen, die ersatzlos gestrichen werden.
+- Der Sonntag ist kein gesetzlich besonders geschützter religiöser Ruhetag mehr.
+- Alle religiösen Feiertage entfallen, siehe auch [Feiertage](../verschiedene/feiertage.md).
+- **Es wird keine Kirchensteuer oder vergleichbare religiöse Abgabe mehr durch den Staat erhoben oder eingezogen.**
+  Religionsgemeinschaften finanzieren sich ausschließlich selbst.
+- **Der Staat finanziert keine religiösen Institutionen oder Aktivitäten.** Staatliche Mittel dürfen nicht für religiöse
+  Zwecke verwendet werden.
+- **Religiöse Symbole sind in staatlichen Einrichtungen grundsätzlich nicht Bestandteil der institutionellen Ausstattung
+  **, da staatliche Einrichtungen weltanschaulich neutral gestaltet sind.
+- **Religionsunterricht ist kein Bestandteil des staatlichen Pflichtunterrichts.** Religionsgemeinschaften können
+  Unterricht außerhalb staatlicher Verantwortung organisieren.
+- **Religiöse Vorschriften haben keine rechtliche Wirkung.** Maßgeblich ist ausschließlich staatliches Recht.
+- **Staatliche Entscheidungen dürfen nicht mit religiösen Argumenten begründet werden.**
+- **Sonderrechte oder Ausnahmeregelungen für Religionsgemeinschaften entfallen**, sofern sie nicht auch für andere
+  gesellschaftliche Gruppen gelten.
+- **Religiöse Organisationen unterliegen denselben allgemeinen Gesetzen** wie alle anderen Organisationen, insbesondere
+  im Arbeits-, Steuer- und Antidiskriminierungsrecht.
