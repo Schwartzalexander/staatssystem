@@ -2,12 +2,12 @@
 
 ## Grundmodell
 
-Die gesetzliche Rentenversicherung ist als **Opt-out-System** organisiert: Standardmäßig nimmt jede erwerbstätige
+Die gesetzliche Rentenversicherung ist als **Opt-out-System** organisiert: Standardmäßig nimmt jede
 Person teil, ein bewusster Austritt ist jedoch unter klaren Bedingungen möglich.
 
 ## Kapitalgedeckte Vorsorge
 
-Die Altersvorsorge basiert nicht auf einem reinen Umlageverfahren, sondern auf individueller kapitalgedeckter
+Die Altersvorsorge basiert nicht auf einem Umlageverfahren, sondern auf individueller kapitalgedeckter
 Ansparung.
 
 Das angesparte Vermögen wird breit gestreut investiert, insbesondere in:
@@ -33,15 +33,11 @@ Geburtenjahrgangs:
 - Frühere oder spätere Renteneintritte sind möglich, führen jedoch zu versicherungsmathematischen Zu- oder
   Abschlägen.
 
-## Soziale Absicherung trotz Eigenkonto
+## Soziale Absicherung
 
-Damit das Modell sozial tragfähig bleibt, sind ergänzende Sicherungen vorgesehen:
-
-- steuerfinanzierte Mindestrente bei unzureichender Erwerbsbiografie,
-- beitragsfreie Anrechnungszeiten für Kindererziehung und Pflege,
-- Schutzmechanismen gegen Altersarmut bei langjähriger Erwerbstätigkeit mit niedrigem Einkommen.
+Falls die Rente nicht reicht, kann [Sozialhilfe](sozialhilfe.md) bezogen werden.
 
 ## Zielsetzung
 
-Die Rentenversicherung soll individuelle Vorsorge stärken, demografische Risiken eines reinen Umlagesystems reduzieren
+Die Rentenversicherung soll individuelle Vorsorge stärken, demografische Risiken eines Umlagesystems reduzieren
 und gleichzeitig einen verlässlichen Mindestschutz im Alter sicherstellen.

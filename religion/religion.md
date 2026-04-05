@@ -33,12 +33,12 @@ Damit wird eine klare Trennung zwischen persönlichem Glauben und staatlichem Ha
   sogenannte **Tanzverbote** an religiösen Feiertagen, die ersatzlos gestrichen werden.
 - Der Sonntag ist kein gesetzlich besonders geschützter religiöser Ruhetag mehr.
 - Alle religiösen Feiertage entfallen, siehe auch [Feiertage](../verschiedene/feiertage.md).
-- **Es wird keine Kirchensteuer oder vergleichbare religiöse Abgabe mehr durch den Staat erhoben oder eingezogen.**
+- Es wird **keine Kirchensteuer** oder vergleichbare religiöse Abgabe mehr durch den Staat erhoben oder eingezogen.
   Religionsgemeinschaften finanzieren sich ausschließlich selbst.
 - **Der Staat finanziert keine religiösen Institutionen oder Aktivitäten.** Staatliche Mittel dürfen nicht für religiöse
   Zwecke verwendet werden.
-- **Religiöse Symbole sind in staatlichen Einrichtungen grundsätzlich nicht Bestandteil der institutionellen Ausstattung
-  **, da staatliche Einrichtungen weltanschaulich neutral gestaltet sind.
+- **Religiöse Symbole** sind in staatlichen Einrichtungen grundsätzlich nicht Bestandteil der institutionellen
+  Ausstattung, da staatliche Einrichtungen weltanschaulich neutral gestaltet sind.
 - **Religionsunterricht ist kein Bestandteil des staatlichen Pflichtunterrichts.** Religionsgemeinschaften können
   Unterricht außerhalb staatlicher Verantwortung organisieren.
 - **Religiöse Vorschriften haben keine rechtliche Wirkung.** Maßgeblich ist ausschließlich staatliches Recht.
