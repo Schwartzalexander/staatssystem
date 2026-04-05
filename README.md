@@ -22,6 +22,8 @@ Die Inhalte sind thematisch gegliedert und sollen als Diskussionsgrundlage diene
   - [Religion und Staat](religion/religion.md)
 - [Verschiedene Themen](#verschiedene-themen)
   - [Feiertage](verschiedene/feiertage.md)
+  - [Ladenöffnungszeiten](verschiedene/ladenoeffnungszeiten.md)
+  - [Gesetzlicher Urlaubsanspruch](verschiedene/urlaubsanspruch.md)
 
 ## Technokratie
 
@@ -52,4 +54,4 @@ Neutralität in öffentlichen Institutionen.
 ## Verschiedene Themen
 
 Der Bereich Verschiedene Themen bündelt Einzelregelungen, die mehrere Politikfelder betreffen, etwa die künftige
-Ausgestaltung gesetzlicher Feiertage.
+Ausgestaltung gesetzlicher Feiertage, flexible Ladenöffnungszeiten und den gesetzlichen Urlaubsanspruch.
