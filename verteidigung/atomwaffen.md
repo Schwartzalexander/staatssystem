@@ -1,7 +1,7 @@
 # Atomwaffen
 
 ## Ziel und Doktrin
-Deutschland soll im Entwurf über eigene nukleare Abschreckungsfähigkeit verfügen. Ziel ist ausschließlich,
+Deutschland soll über eigene nukleare Abschreckungsfähigkeit verfügen. Ziel ist ausschließlich,
 einen Angriff auf Staat und kritische Infrastruktur zu verhindern.
 
 Die Doktrin lautet:
@@ -10,8 +10,9 @@ Die Doktrin lautet:
 - **politische und militärische Kontrolle in klaren, mehrstufigen Entscheidungsverfahren**.
 
 ## Schutz kritischer Infrastruktur
-Ein Angriff auf Kernkraftwerke oder andere strategische Energieanlagen wird als Angriff auf die nationale Sicherheit
-gewertet und soll dadurch bereits im Vorfeld unattraktiv gemacht werden.
+Ein Angriff auf Kernkraftwerke oder andere strategische Energieanlagen wird als Angriff nuklearer Angriff
+gewertet und rechtfertigt einen nuklearen Gegenschlag. Dadurch dadurch bereits im Vorfeld ein derartiger Angriff 
+unattraktiv gemacht werden.
 
 ## Governance und Kontrolle
 Damit nukleare Abschreckung politisch verantwortbar bleibt, gelten strenge Leitplanken:
@@ -23,6 +24,3 @@ Damit nukleare Abschreckung politisch verantwortbar bleibt, gelten strenge Leitp
 ## Verhältnis zur Energiepolitik
 Die energiepolitischen Ziele, insbesondere der Ausbau der Kernkraft und der Umgang mit nuklearen Stoffen, sind im Kapitel
 [Elektrizität](../energieversorgung/elektrizitaet.md) dargestellt.
-
-Dieses Kapitel beschreibt die strategische Rahmensetzung. Es enthält bewusst keine technischen Detailbeschreibungen zur
-Herstellung oder zum Einsatz von Kernwaffen.

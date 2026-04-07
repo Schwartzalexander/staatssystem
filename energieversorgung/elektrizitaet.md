@@ -23,13 +23,18 @@ Wasserstoffspeicher) bedarfsgerecht ausgebaut. Sie dienen dazu, Überschüsse au
 verlässlich wieder bereitzustellen.
 
 ## Ausstieg aus fossiler Stromerzeugung
-Kohle- und Gaskraftwerke werden langfristig nicht mehr für die reguläre Stromerzeugung eingesetzt.
+Kohle- und Gaskraftwerke werden kurz- bis mittelfristig nicht mehr für die reguläre Stromerzeugung eingesetzt.
 
 ## Sektorkopplung und Wärme
 Die Abwärme von Kernkraftwerken soll für Fernwärme und industrielle Prozesse genutzt werden, um den Gesamtwirkungsgrad des
 Energiesystems zu erhöhen.
 
 ## Zusammenhang mit Sicherheitspolitik
-Die Energieversorgung ist eng mit der Sicherheitsarchitektur verbunden. Der Umgang mit nuklearem Material,
-Sicherheitsstandards, internationale Verpflichtungen und die Abschreckungslogik werden im Kapitel
-[Atomwaffen](../verteidigung/atomwaffen.md) behandelt.
+Der Betrieb von Kernkraftwerken führt zur Entstehung spaltbarer Materialien im abgebrannten Brennstoff, 
+insbesondere von Plutonium. Dieses Material ist für die zivile Stromerzeugung ein Nebenprodukt, 
+kann jedoch grundsätzlich auch [militärisch](../verteidigung/atomwaffen.md) relevant sein, sofern es durch technisch aufwändige 
+Verfahren weiterverarbeitet wird.
+
+Eine zivile Nuklearindustrie schafft damit Kompetenzen und industrielle Kapazitäten im Umgang mit sensiblen 
+Materialien sowie in der Entwicklung, im Bau und im Betrieb kerntechnischer Anlagen. Diese Fähigkeiten erhöhen
+die technologische Souveränität in einem strategisch bedeutenden Bereich.
