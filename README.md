@@ -10,6 +10,10 @@ Die Inhalte sind thematisch gegliedert und sollen als Diskussionsgrundlage diene
   - [Präsident](technokratie/praesident.md)
 - [Staatsorganisation](#staatsorganisation)
   - [Föderalismus und zentrale Staatsverwaltung](staatsorganisation/foederalismus.md)
+- [Energieversorgung](#energieversorgung)
+  - [Elektrizität](energieversorgung/elektrizitaet.md)
+- [Verteidigung](#verteidigung)
+  - [Atomwaffen](verteidigung/atomwaffen.md)
 - [Sozialsystem](#sozialsystem)
   - [Krankenversicherung](sozialsystem/krankenversicherung.md)
   - [Arbeitgeberanteile](sozialsystem/arbeitgeberanteile.md)
@@ -17,7 +21,7 @@ Die Inhalte sind thematisch gegliedert und sollen als Diskussionsgrundlage diene
   - [Rentenversicherung](sozialsystem/rentenversicherung.md)
   - [Sozialhilfe](sozialsystem/sozialhilfe.md)
 - [Bildung](#bildung)
-  - [Schulsystem](bildung/schulsystem)
+  - [Schulsystem](bildung/schulsystem.md)
 - [Religion](#religion)
   - [Religion und Staat](religion/religion.md)
 - [Verschiedene Themen](#verschiedene-themen)
@@ -34,6 +38,17 @@ Rolle des Präsidenten als repräsentatives Staatsoberhaupt.
 
 Der Bereich Staatsorganisation behandelt die Verwaltungsstruktur des Staates, insbesondere den Ausgleich zwischen
 zentraler Steuerung und regionaler Handlungsfähigkeit.
+
+## Energieversorgung
+
+Der Bereich Energieversorgung beschreibt die langfristige Ausrichtung der Stromversorgung. Schwerpunkt ist ein
+verlässlicher Energiemix aus Kernkraft und erneuerbaren Energien, ergänzt durch Speicher, Netzausbau und
+Sektorkopplung.
+
+## Verteidigung
+
+Der Bereich Verteidigung skizziert die sicherheitspolitische Rahmensetzung des Entwurfs. Dazu gehören Abschreckung,
+Schutz kritischer Infrastruktur und institutionelle Kontrollmechanismen.
 
 ## Sozialsystem
 
