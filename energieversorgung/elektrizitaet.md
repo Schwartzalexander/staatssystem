@@ -1,25 +1,35 @@
-Kernkraft wird wieder eingeführt. Ziel ist es, 50% des Energiemixes aus Kernkraft zu gewinnen.
-Der Staat vergibt zinsgünstige Kredite an Unternehmen, die Kernkraftwerke bauen, allerdings unter der Auflage, den Strom
-kostengünstig zu verkaufen.
-Alle so neu gebauten Kernkraftwerke sollen kostengünstig gleichzeitig gebaut werden, sodass alle Bauteile quasi in
-Massenproduktion gefertigt werden können.
+# Elektrizität
 
-Wind, Solar und Wasser sollen die anderen 50 % decken. Der Ausbau wird aber nicht mehr gefördert.
+## Zielbild
+Deutschland verfolgt das Ziel, elektrische Energie dauerhaft in großen Mengen, planbar und zu stabilen Preisen bereitzustellen.
+Der Ausbau der Stromerzeugung wird als strategische Infrastrukturaufgabe verstanden, damit Verkehr, Wärmeversorgung und Industrie
+schrittweise elektrifiziert werden können.
 
-Es werden Speicher gebaut, um Überproduktionen abzufangen und in Zeiten von schlechtem Ertrag der erneuerbaren Energien
-Strom zu liefern.
+## Energiemix
+- **50 % Kernkraft** als verlässliche Grundlast.
+- **50 % Erneuerbare Energien** (Wind, Solar, Wasser) als zweite tragende Säule.
 
-Kohle und Gas werden nicht mehr zur Stromgewinnung genutzt.
+Der Staat unterstützt den Neubau von Kernkraftwerken über zinsgünstige Kredite mit klaren Bedingungen:
+- standardisierte Reaktordesigns,
+- paralleler Bau mehrerer Anlagen zur Senkung der Stückkosten,
+- Verpflichtung zu kostengünstiger Stromabgabe.
 
-Die Abwärme von Kernkraftwerken wird zum Heizen verwendet.
+Der Ausbau erneuerbarer Energien wird fortgeführt, jedoch ohne zusätzliche Dauersubventionen. Schwerpunkt ist die
+Systemintegration in ein stabiles Gesamtnetz.
 
-Alle oben genannten Energieformen sollen weiter ausgebaut werden. Ziel ist es, Strom in großen Mengen und kostengünstig
-zur Verfügung zu stellen. Stromsparen soll kein Thema mehr sein.
+## Netzstabilität und Speicher
+Zur Absicherung gegen Erzeugungsschwankungen werden Speichertechnologien (z. B. Pumpspeicher, Großbatterien,
+Wasserstoffspeicher) bedarfsgerecht ausgebaut. Sie dienen dazu, Überschüsse aufzunehmen und bei niedriger Einspeisung
+verlässlich wieder bereitzustellen.
 
-Da mittelfristig sowohl Straßenverkehr als auch Heizen rein elektrisch (und mit Abwärme) erfolgen soll, muss deutlich
-mehr elektrische Energie bereitgestellt werden.
+## Ausstieg aus fossiler Stromerzeugung
+Kohle- und Gaskraftwerke werden langfristig nicht mehr für die reguläre Stromerzeugung eingesetzt.
 
-Hinweis auf Atomwaffen und Nutzen von Abfallprodukten der Kernkraftwerke für den Bau (auf verteidigung/atomwaffen.md
-verlinken)
+## Sektorkopplung und Wärme
+Die Abwärme von Kernkraftwerken soll für Fernwärme und industrielle Prozesse genutzt werden, um den Gesamtwirkungsgrad des
+Energiesystems zu erhöhen.
 
-# todo: Überarbeiten
+## Zusammenhang mit Sicherheitspolitik
+Die Energieversorgung ist eng mit der Sicherheitsarchitektur verbunden. Der Umgang mit nuklearem Material,
+Sicherheitsstandards, internationale Verpflichtungen und die Abschreckungslogik werden im Kapitel
+[Atomwaffen](../verteidigung/atomwaffen.md) behandelt.
