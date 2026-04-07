@@ -24,6 +24,8 @@ Die Inhalte sind thematisch gegliedert und sollen als Diskussionsgrundlage diene
   - [Schulsystem](bildung/schulsystem.md)
 - [Religion](#religion)
   - [Religion und Staat](religion/religion.md)
+- [Medien](#medien)
+  - [Öffentlicher Informationsdienst](medien/oeffentlicher-informationsdienst.md)
 - [Verschiedene Themen](#verschiedene-themen)
   - [Feiertage](verschiedene/feiertage.md)
   - [Ladenöffnungszeiten](verschiedene/ladenoeffnungszeiten.md)
@@ -65,6 +67,11 @@ leistungsbezogenen Wechselmöglichkeiten und stärkerem Fokus auf Zukunftsfäche
 
 Der Bereich Religion behandelt das Verhältnis zwischen Staat, Religionsgemeinschaften und weltanschaulicher
 Neutralität in öffentlichen Institutionen.
+
+## Medien
+
+Der Bereich Medien beschreibt die Neuordnung der öffentlichen Informationsversorgung durch einen
+steuerfinanzierten Öffentlichen Informationsdienst mit klarem Fokus auf Sparsamkeit, Neutralität und Objektivität.
 
 ## Verschiedene Themen
 
