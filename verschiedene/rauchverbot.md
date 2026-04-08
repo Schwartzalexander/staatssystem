@@ -4,8 +4,8 @@ Es gilt ein komplettes Rauchverbot für alle Arten von "rauchbaren" Drogen, daru
 
 Das Rauchverbot gilt:
 - in allen Innenräumen,
-- im gesamten öffentlichen Raum im Freien,
-- auf öffentlichen und privaten Grundstücken.
+- im gesamten Raum im Freien,
+- auf öffentlichen und privaten Grundstücken / Bereichen.
 
 Eine Ausnahme ist ausschließlich zu Forschungszwecken möglich und nur in dafür vorgesehenen, behördlich genehmigten Bereichen.
 
