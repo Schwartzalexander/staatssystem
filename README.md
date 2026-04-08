@@ -12,6 +12,8 @@ Die Inhalte sind thematisch gegliedert und sollen als Diskussionsgrundlage diene
   - [Föderalismus und zentrale Staatsverwaltung](staatsorganisation/foederalismus.md)
 - [Energieversorgung](#energieversorgung)
   - [Elektrizität](energieversorgung/elektrizitaet.md)
+- [Verkehr](#verkehr)
+  - [Verkehrswende auf rein-elektrischen Antrieb](verkehr/elektromobilitaet.md)
 - [Verteidigung](#verteidigung)
   - [Atomwaffen](verteidigung/atomwaffen.md)
 - [Sozialsystem](#sozialsystem)
@@ -47,6 +49,12 @@ zentraler Steuerung und regionaler Handlungsfähigkeit.
 Der Bereich Energieversorgung beschreibt die langfristige Ausrichtung der Stromversorgung. Schwerpunkt ist ein
 verlässlicher Energiemix aus Kernkraft und erneuerbaren Energien, ergänzt durch Speicher, Netzausbau und
 Sektorkopplung.
+
+## Verkehr
+
+Der Bereich Verkehr beschreibt die vollständige Umstellung des Straßenverkehrs auf rein-elektrische Antriebe,
+ergänzt durch Vorgaben für transparente Ladepreise und interoperables, kartenloses Bezahlen an öffentlichen
+Ladesäulen.
 
 ## Verteidigung
 
