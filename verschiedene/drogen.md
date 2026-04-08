@@ -54,4 +54,6 @@ Die Abgabe legalisierter Substanzen erfolgt personengebunden über spezielle Abg
 
 Vor einer eigenständigen Abgabe ist mindestens eine betreute Einnahme verpflichtend.
 
-Dafür werden zertifizierte Betreuungsstellen eingerichtet. Erst nach dokumentierter Freigabe durch eine betreuende Fachperson gilt eine Person als geeignet und darf die jeweilige Substanz künftig auch selbst konsumieren.
+Dafür werden zertifizierte Betreuungsstellen eingerichtet. Erst nach dokumentierter Freigabe durch eine betreuende Fachperson 
+gilt eine Person als geeignet und darf die jeweilige Substanz künftig auch selbst konsumieren. Es kann erforderlich sein, 
+dass die Person mehrere betreute Einnahmen durchläuft, um die Eignung sicherzustellen.
