@@ -34,6 +34,7 @@ Die Inhalte sind thematisch gegliedert und sollen als Diskussionsgrundlage diene
   - [Ladenöffnungszeiten](verschiedene/ladenoeffnungszeiten.md)
   - [Gesetzlicher Urlaubsanspruch](verschiedene/urlaubsanspruch.md)
   - [Rauchverbot](verschiedene/rauchverbot.md)
+  - [Drogen](verschiedene/drogen.md)
 
 ## Technokratie
 
@@ -86,4 +87,4 @@ steuerfinanzierten Öffentlichen Informationsdienst mit klarem Fokus auf Sparsam
 ## Verschiedene Themen
 
 Der Bereich Verschiedene Themen bündelt Einzelregelungen, die mehrere Politikfelder betreffen, etwa die künftige
-Ausgestaltung gesetzlicher Feiertage, flexible Ladenöffnungszeiten, den gesetzlichen Urlaubsanspruch und das umfassende Rauchverbot.
+Ausgestaltung gesetzlicher Feiertage, flexible Ladenöffnungszeiten, den gesetzlichen Urlaubsanspruch, das umfassende Rauchverbot und den Umgang mit Drogen sowie Suchtsteuern.
